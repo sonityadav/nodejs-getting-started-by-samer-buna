@@ -1,0 +1,1 @@
+1. Windows subsystem for linux (to run linux in windows like an app)

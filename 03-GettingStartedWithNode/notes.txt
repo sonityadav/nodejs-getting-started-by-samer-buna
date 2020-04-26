@@ -1,0 +1,12 @@
+Node REPL commands:
+1. editor (to enter into editor mode)
+2. .save/.load (to save methods/vars defined in a particular REPL session, and later load)
+
+3. Tab key for autocomplete
+4. Tab key twice for list of possible options
+5. const ar = []; ar.TABTAB will list all possible options
+6. TABTAB on empty line will list all globals
+
+7. Ctrl+L to clear screen
+8. modules gobally available in REPL may not be in regular node env, you may require() them
+9. _ global stores the last evaluated expression's value
